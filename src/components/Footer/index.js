@@ -9,16 +9,16 @@ function Footer() {
 
         <View style={styles.containerInicial}>
             <TouchableOpacity >
-                <Image style={styles.inicial} source={require('../../image/Pginicial.jpg')} />
+                <Image style={styles.inicial} source={require('../../image/home2.png')} />
             </TouchableOpacity>
             <TouchableOpacity >
-                <Image style={styles.inicial} source={require('../../image/busca.jpg')} />
+                <Image style={styles.inicial} source={require('../../image/pesquisa.png')} />
             </TouchableOpacity>
             <TouchableOpacity >
-                <Image style={styles.inicial} source={require('../../image/notif.jpg')} />
+                <Image style={styles.inicial} source={require('../../image/noti.png')} />
             </TouchableOpacity>
             <TouchableOpacity >
-                <Image style={styles.inicial} source={require('../../image/dm.jpg')} />
+                <Image style={styles.inicial} source={require('../../image/mensa.png')} />
             </TouchableOpacity>
         </View>
 

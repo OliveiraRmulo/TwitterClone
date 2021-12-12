@@ -3,8 +3,8 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
     inicial:{
         flex: 1,
-        width: 90,
-        height: 90,
+        width: 93,
+        height: 77,
         resizeMode: 'stretch', 
     },
     keyboard:{
@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
         flexDirection:'row',
         botton:0,
         position: 'absolute'
-    }
+    },
+   
 });
 
 export default styles;

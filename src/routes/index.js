@@ -9,7 +9,7 @@ function Routes (){
 
     return(
         <Stack.Navigator screenOptions={{ headerTransparent:true, headerShown:false }} >
-            <Stack.Screen name='Login' component={Login} />
+            {/* <Stack.Screen name='Login' component={Login} /> */}
             <Stack.Screen name='Home' component={Home} />
         </Stack.Navigator>
     )
