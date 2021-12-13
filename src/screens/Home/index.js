@@ -146,7 +146,7 @@ function Home() {
                             <Text style={styles.nomeUsuario}>Kelvin</Text>
                             <Text style={styles.arrobaUsuario}>@Kelvin  • 10m</Text>
                         </View>
-                        <Text style={styles.text}>Não vamos conseguir fazer esse trabalho</Text>
+                        <Text style={styles.text}>As vezes esqueço que sou careca e me vejo penteando o cabelo</Text>
 
                         <View style={styles.reactions}>
                             <TouchableOpacity >
@@ -174,7 +174,7 @@ function Home() {
                             <Text style={styles.nomeUsuario}>Yuri</Text>
                             <Text style={styles.arrobaUsuario}>@Yuri  • 10h</Text>
                         </View>
-                        <Text style={styles.text}>Galera, partiu Yoga no Parque de Itaipava domingo?</Text>
+                        <Text style={styles.text}>Galera, partiu Yoga no Parque de Itaipava?</Text>
 
                         <View style={styles.reactions}>
                             <TouchableOpacity >
@@ -285,9 +285,9 @@ function Home() {
                         <Image style={styles.fotoUsuario} source={require('../../image/igor.png')} />
                         <View style={styles.view}>
                             <Text style={styles.nomeUsuario}>Igor</Text>
-                            <Text style={styles.arrobaUsuario}>@SeuBarriga  • 18h</Text>
+                            <Text style={styles.arrobaUsuario}>@Igor  • 18h</Text>
                         </View>
-                        <Text style={styles.text}>Você sabia que somente os idiotas respondem uma pergunta com outra pergunta?</Text>
+                        <Text style={styles.text}>Quem com ferro fere , transfere tétano</Text>
 
                         <View style={styles.reactions}>
                             <TouchableOpacity >
