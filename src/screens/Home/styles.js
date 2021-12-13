@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
         justifyContent:'space-between',
         borderBottomWidth:0.5,
         borderBottomColor:'#e0e4e9',   
-        paddingVertical:6,
+        paddingVertical:8,
         paddingHorizontal:10,
         backgroundColor:'#fff'
     },
@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
     avatar: {
         width: 30,
         height: 30,
-        borderRadius:'1rem',
     },
     icon: {
         width: 40,
