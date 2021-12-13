@@ -8,5 +8,4 @@ App feito no Expo.
 ![app original](https://user-images.githubusercontent.com/89466574/145896539-e73d89d4-9d80-401d-ac87-43fd179e43d6.png)
 ![tela1 clone](https://user-images.githubusercontent.com/89466574/145896561-1b00e359-01e5-4a97-b947-c08836e53b4d.png)
 ![tela2 clone](https://user-images.githubusercontent.com/89466574/145896587-e7f560e1-184c-4a6e-9e2d-4c2cfbe9532c.png)
-![tela3 clone](https://user-images.githubusercontent.com/89466574/145896604-8bb453b3-1939-4294-bc22-09d2ba83ce2a.png
 
